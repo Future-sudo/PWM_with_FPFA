@@ -100,7 +100,7 @@ MIT License - See LICENSE file for details.
 
 ## 👨‍💻 Author
 **Bhavishya Hardiya**  
-*IIST (Indian Institute of Space Science and Technology)*
+*IIST (Indore Institute of Science and Technology)*
 
 ## 🔗 Related Projects
 - [FPGA Boolean Board](https://github.com/boolean-board)
